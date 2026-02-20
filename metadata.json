@@ -1,0 +1,5 @@
+{
+  "name": "Equation Solver Game_swiping",
+  "description": "Interactive mobile-first 1st-degree equation solver game using drag-and-drop mechanics.",
+  "requestFramePermissions": []
+}
