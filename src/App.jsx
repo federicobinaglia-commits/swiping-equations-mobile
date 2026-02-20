@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { motion, useMotionValue, useTransform, PanInfo } from 'motion/react';
+import { motion, useMotionValue, useTransform } from 'motion/react';
 import { Plus, Minus, Equal, X, Trophy } from 'lucide-react';
 
 // --- Types ---
